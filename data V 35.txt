@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"how to use this app 1","desc":"Standoff 0.22.4 is a Python package designed for creating standoff annotations for text data. The package is widely used in Natural Language Processing (NLP) tasks such as named entity recognition, ","photo":"https://iili.io/HSswjyX.jpg"},
+  {"title":"helper mod 2","desc":"entity linking, and semantic role labeling. The package is based on the standoff format, ","photo":"https://iili.io/HSswhvt.jpg"},
+  {"title":"tips pack 3","desc":"which is a text-based representation of annotations that provides a clear separation between the original text and the annotations. In this article, we will explore the key features and functionalities of Standoff 0.22.4.","photo":"https://iili.io/HSswS6l.png"},
+  {"title":"advance mod 4","desc":"Standoff 0.22.4 is a Python package that allows users to create, modify, and visualize standoff annotations for text data. ","photo":"https://iili.io/HSswXaI.jpg"},
+  {"title":"helper pack 5","desc":" The package provides an easy-to-use interface that enables users to create annotations in the standoff format, which is widely used in NLP tasks.","photo":"https://iili.io/HSswNun.jpg"},
+  {"title":"advice mod 6","desc":"The standoff format separates the original text from the annotations, which makes it easy to work with and modify the annotations without affecting the original text.","photo":"https://iili.io/HSswvnf.jpg"},
+  {"title":"tips pack 7","desc":"The package provides several key functionalities such as creating annotations, modifying existing annotations, and visualizing the annotations. It also provides support for different annotation types such as named entities, coreference chains, and event mentions.","photo":"https://iili.io/HSsweZG.jpg"},
+  {"title":"advance mod 8","desc":"One of the main functionalities of Standoff 0.22.4 is the ability to create annotations. The package provides a simple interface for creating annotations in the standoff format.","photo":"https://iili.io/HSsw8G4.jpg"}
    ]
  
 }
