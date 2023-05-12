@@ -19,25 +19,25 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-2377413-1",
-"yandex_inter":"R-M-2377413-3",
-"yandex_native":"R-M-2377413-2",
-"yandex_reward":"R-M-2377413-4",
+"yandex_banner":"R-M-2383834-1",
+"yandex_inter":"R-M-2383834-3",
+"yandex_native":"R-M-2383834-2",
+"yandex_reward":"R-M-2383834-4",
 
 
 
 "start_vpn":"no",
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
-"native_network_choice":"admob"
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
   
   
 
 },
  
  "my_data":[
-  {"title":"helper mod 1","desc":"Mod menus are a common feature in many online games, including the popular mobile first-person shooter game Standoff. Mod menus provide players with a range of different options to customize their gaming experience, ","photo":"https://iili.io/HSu65Mv.jpg"},
+  {"title":"helper mod 1","desc":"Mod menus are a common feature in many online games, including the popular mobile first-person shooter game Standoff. Mod menus provide players with a range of different options to customize their gaming experience, ","photo":"https://iili.io/HSswjyX.jpg"},
   {"title":"tips pack 2","desc":"often allowing them to cheat and gain an unfair advantage over other players. In this article, we will take a closer look at mod menus in Standoff, how they work, and the potential risks associated with using them.","photo":"https://iili.io/HSu6aFp.jpg"},
   {"title":"how to use this app 3","desc":"Standoff is a fast-paced, online first-person shooter game that has gained a large following in recent years. The game allows players to compete in various game modes, including deathmatch, capture the flag, and team battles.","photo":"https://iili.io/HSu6RoJ.jpg"},
   {"title":"advice mod 4","desc":"Standoff is a fast-paced, online first-person shooter game that has gained a large following in recent years. The game allows players to compete in various game modes, including deathmatch, capture the flag, and team battles.","photo":"https://iili.io/HSu6uta.webp"},
