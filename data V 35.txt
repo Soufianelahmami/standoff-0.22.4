@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"Standoff-0.22.4 offers comprehensive support for creating, manipulating, and visualizing annotations. It provides a range of annotation types, including named entities, part-of-speech tags, syntactic dependencies, and semantic role labels, allowing researchers to annotate text with fine-grained detail.","photo":"https://iili.io/HUaKADg.jpg"},
+  {"title":"tips pack 2","desc":"Standoff-0.22.4 offers comprehensive support for creating, manipulating, and visualizing annotations. It provides a range of annotation types, including named entities, part-of-speech tags, syntactic dependencies, and semantic role labels, allowing researchers to annotate text with fine-grained detail.","photo":"https://iili.io/HUaKuOF.jpg"},
+  {"title":"advice mod 3","desc":"Standoff-0.22.4 offers comprehensive support for creating, manipulating, and visualizing annotations. It provides a range of annotation types, including named entities, part-of-speech tags, syntactic dependencies, and semantic role labels, allowing researchers to annotate text with fine-grained detail.","photo":"https://iili.io/HUaK5xa.jpg"},
+  {"title":"how to use this app 4","desc":"Standoff-0.22.4 includes visualization tools that facilitate the exploration and analysis of annotated data. It provides visual representations of annotations, allowing users to inspect and validate the quality of their annotations quickly.","photo":"https://iili.io/HUaKTR1.jpg"},
+  {"title":"advance pack 5","desc":"","photo":"https://iili.io/HUaK7WJ.jpg"},
+  {"title":"helper mod 6","desc":"Standoff-0.22.4 streamlines the annotation process by providing a structured framework for managing annotations. Its separation of text and annotations simplifies the task of annotating large corpora, improving efficiency and reducing errors.","photo":"https://iili.io/HUaKYiv.jpg"},
+  {"title":"tips pack 7","desc":"Standoff-0.22.4 promotes reproducibility by ensuring that annotations are stored separately from the original text. Researchers can easily share annotated datasets without compromising the integrity of the original data, enabling reproducible research and facilitating collaboration in the NLP community.","photo":"https://iili.io/HUaKcfR.jpg"},
+  {"title":"advice mod 8","desc":"The ability to define custom annotation schemas in Standoff-0.22.4 empowers researchers to adapt the tool to their specific needs. This customizability makes it suitable for a wide range of NLP tasks and facilitates experimentation and innovation in annotation methodologies.","photo":"https://iili.io/HUaKllp.png"}
 
    ]
  
