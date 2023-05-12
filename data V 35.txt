@@ -19,32 +19,33 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-2383834-1",
-"yandex_inter":"R-M-2383834-3",
-"yandex_native":"R-M-2383834-2",
-"yandex_reward":"R-M-2383834-4",
+"yandex_banner":"R-M-2377413-1",
+"yandex_inter":"R-M-2377413-3",
+"yandex_native":"R-M-2377413-2",
+"yandex_reward":"R-M-2377413-4",
 
 
 
 "start_vpn":"no",
-"banner_network_choice":"yandex", 
-"interstisial_network_choice":"yandex", 
-"reward_network_choice":"yandex",
-"native_network_choice":"yandex"
+"banner_network_choice":"admob", 
+"interstisial_network_choice":"admob", 
+"reward_network_choice":"admob",
+"native_network_choice":"admob"
   
   
 
 },
  
  "my_data":[
-  {"title":"how to use this app 1","desc":"Standoff 0.22.4 is a Python package designed for creating standoff annotations for text data. The package is widely used in Natural Language Processing (NLP) tasks such as named entity recognition, ","photo":"https://iili.io/HSswjyX.jpg"},
-  {"title":"helper mod 2","desc":"entity linking, and semantic role labeling. The package is based on the standoff format, ","photo":"https://iili.io/HSswhvt.jpg"},
-  {"title":"tips pack 3","desc":"which is a text-based representation of annotations that provides a clear separation between the original text and the annotations. In this article, we will explore the key features and functionalities of Standoff 0.22.4.","photo":"https://iili.io/HSswS6l.png"},
-  {"title":"advance mod 4","desc":"Standoff 0.22.4 is a Python package that allows users to create, modify, and visualize standoff annotations for text data. ","photo":"https://iili.io/HSswXaI.jpg"},
-  {"title":"helper pack 5","desc":" The package provides an easy-to-use interface that enables users to create annotations in the standoff format, which is widely used in NLP tasks.","photo":"https://iili.io/HSswNun.jpg"},
-  {"title":"advice mod 6","desc":"The standoff format separates the original text from the annotations, which makes it easy to work with and modify the annotations without affecting the original text.","photo":"https://iili.io/HSswvnf.jpg"},
-  {"title":"tips pack 7","desc":"The package provides several key functionalities such as creating annotations, modifying existing annotations, and visualizing the annotations. It also provides support for different annotation types such as named entities, coreference chains, and event mentions.","photo":"https://iili.io/HSsweZG.jpg"},
-  {"title":"advance mod 8","desc":"One of the main functionalities of Standoff 0.22.4 is the ability to create annotations. The package provides a simple interface for creating annotations in the standoff format.","photo":"https://iili.io/HSsw8G4.jpg"}
+  {"title":"helper mod 1","desc":"Mod menus are a common feature in many online games, including the popular mobile first-person shooter game Standoff. Mod menus provide players with a range of different options to customize their gaming experience, ","photo":"https://iili.io/HSu65Mv.jpg"},
+  {"title":"tips pack 2","desc":"often allowing them to cheat and gain an unfair advantage over other players. In this article, we will take a closer look at mod menus in Standoff, how they work, and the potential risks associated with using them.","photo":"https://iili.io/HSu6aFp.jpg"},
+  {"title":"how to use this app 3","desc":"Standoff is a fast-paced, online first-person shooter game that has gained a large following in recent years. The game allows players to compete in various game modes, including deathmatch, capture the flag, and team battles.","photo":"https://iili.io/HSu6RoJ.jpg"},
+  {"title":"advice mod 4","desc":"Standoff is a fast-paced, online first-person shooter game that has gained a large following in recent years. The game allows players to compete in various game modes, including deathmatch, capture the flag, and team battles.","photo":"https://iili.io/HSu6uta.webp"},
+  {"title":"helper pack 5","desc":"Mod menus are essentially a tool that allows players to modify the game's code to gain an advantage. They typically contain a range of features, including aimbots, wallhacks, ","photo":"https://iili.io/HSu67PR.jpg"},
+  {"title":"advance mod 6","desc":", and unlimited ammo. These features can make it easier for players to win matches, earn rewards, and climb the leaderboard.","photo":"https://iili.io/HSu6ccN.jpg"},
+  {"title":"tips pack 7","desc":"To use a mod menu in Standoff, players must first download and install the mod menu software. This is typically done by visiting a third-party website that hosts the mod menu.","photo":"https://iili.io/HSu6lSI.webp"},
+  {"title":"how to use this app 8","desc":"Once the software is installed, players can access the mod menu from within the game by pressing a specific key combination.","photo":"https://iili.io/HSu619t.jpg"}
    ]
  
 }
+   
